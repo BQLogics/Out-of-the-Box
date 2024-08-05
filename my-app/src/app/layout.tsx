@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "HealthSync",
+  title: "Biz Start",
   description: "Your personal AI-powered health analysis and wellness companion",
   icons: {
     icon: [
