@@ -119,3 +119,17 @@ uvicorn==0.30.1
 watchfiles==0.22.0
 websockets==11.0.3
 yarl==1.9.4
+Flask==3.0.0
+gunicorn
+flask_login
+plotly
+pandas
+pymongo==4.5.0
+requests
+pillow
+bs4
+pypdf2
+pdf2image
+pytesseract
+easyocr
+openai
